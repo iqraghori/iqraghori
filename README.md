@@ -33,5 +33,5 @@ Advanced SQL → Power BI → internship applications
 
 ---
 
-📍 Karachi, Pakistan  |  🎓 UBIT Batch '26  |  [LinkedIn](https://linkedin.com/in/iqra-habib-2149b0219)
+ [LinkedIn](https://linkedin.com/in/iqra-habib-2149b0219)
     
