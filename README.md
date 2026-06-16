@@ -1,6 +1,6 @@
 # Iqra Habib
 
-**Data Analyst in Progress · Karachi, Pakistan**
+**Data Analyst · Karachi, Pakistan**
 
 Final-year Software Engineering student at UBIT building toward a data analyst role. I work with Python, Pandas, SQL, and data visualization tools — focused on real-world projects over tutorials.
 
