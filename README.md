@@ -1,4 +1,4 @@
-## Iqra Habib - Data Analyst
+# Iqra Habib - Data Analyst
 
 - i like data and asking questions it can answer.
 - stack: python, pandas, numpy, sql, matplotlib, seaborn
