@@ -1,5 +1,5 @@
 # Iqra Habib - Data Analyst
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:4C72B0&height=120&section=header&text=Iqra%20Habib&fontSize=40&fontColor=fff)
+
 - i like data and asking questions it can answer.
 - stack: python, pandas, numpy, sql, matplotlib, seaborn
 - currently learning: advanced sql → power bi
