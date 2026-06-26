@@ -1,10 +1,10 @@
 # Iqra Habib - Data Analyst
 
-- i like data and asking questions it can answer.
-- stack: python, pandas, numpy, sql, matplotlib, seaborn
-- currently learning: advanced sql → power bi
-- last project: [TMDB movie analysis](https://github.com/iqraghori/TMDB-API-Movie-Data-Analysis)
-- currently building: [sql-practice](https://github.com/iqraghori/sql-practice)
+- I like data and asking questions it can answer.
+- Stack: python, pandas, numpy, sql, matplotlib, seaborn
+- Currently learning: advanced sql → power bi
+- Last project: [TMDB movie analysis](https://github.com/iqraghori/TMDB-API-Movie-Data-Analysis)
+- Currently building: [sql-practice](https://github.com/iqraghori/sql-practice)
 
 ### Stack
 
