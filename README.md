@@ -12,7 +12,8 @@
 
 </td>
 <td valign="middle" align="center" width="60%">
-<img width="250" alt="cube gif" src="https://github.com/user-attachments/assets/8737c3fc-e5f2-40e9-8ffd-12d9ee8a090c" />
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/b5faa84f-e16b-403a-86b0-3748ab00518f/Hq91fshgyK.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 </td>
 </tr>
 </table>
