@@ -11,9 +11,8 @@
 - Currently building: [sql-practice](https://github.com/iqraghori/sql-practice)
 
 </td>
-<td valign="middle" align="center" width="60%">
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/b5faa84f-e16b-403a-86b0-3748ab00518f/Hq91fshgyK.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+<td valign="middle" align="right" width="100%">
+<img width="150" height="150" alt="paws animation" src="https://github.com/user-attachments/assets/2525a062-cc0e-4c29-8bbd-57a3b242d411" />
 </td>
 </tr>
 </table>
