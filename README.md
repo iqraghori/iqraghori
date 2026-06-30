@@ -1,6 +1,6 @@
 # Iqra Habib - Data Analyst
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
 <td valign="top" width="60%">
 
