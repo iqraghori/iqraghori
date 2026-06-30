@@ -11,8 +11,8 @@
 - Currently building: [sql-practice](https://github.com/iqraghori/sql-practice)
 
 </td>
-<td valign="middle" align="right" width="100%">
-<img width="150" height="150" alt="paws animation" src="https://github.com/user-attachments/assets/2525a062-cc0e-4c29-8bbd-57a3b242d411" />
+<td valign="middle" align="center" width="200%">
+<img width="200" height="200" alt="paws animation" src="https://github.com/user-attachments/assets/2525a062-cc0e-4c29-8bbd-57a3b242d411" />
 </td>
 </tr>
 </table>
