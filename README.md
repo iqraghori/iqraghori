@@ -1,8 +1,8 @@
 # Iqra Habib - Data Analyst
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
-<tr>
-<td valign="top" width="60%">
+<tr style="border: none;">
+<td valign="top" width="60%" style="border: none;">
 
 - I like data and asking questions it can answer.
 - Stack: Python, Pandas, NumPy, SQL, Matplotlib, Seaborn
