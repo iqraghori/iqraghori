@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="70%">
 
 - I like data and asking questions it can answer.
 - Stack: python, pandas, numpy, sql, matplotlib, seaborn
@@ -11,8 +11,8 @@
 - Currently building: [sql-practice](https://github.com/iqraghori/sql-practice)
 
 </td>
-<td valign="top" width="35%">
-<img width="120" alt="black" src="https://github.com/user-attachments/assets/8737c3fc-e5f2-40e9-8ffd-12d9ee8a090c" />
+<td align="center" width="30%">
+<img width="180" alt="black" src="https://github.com/user-attachments/assets/8737c3fc-e5f2-40e9-8ffd-12d9ee8a090c" />
 </td>
 </tr>
 </table>
